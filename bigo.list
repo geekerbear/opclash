@@ -1,13 +1,15 @@
 # NAME: Bigo
 # AUTHOR: tutu
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:14:51
+# UPDATED: 2025-02-16 16:14:51
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 4
-# TOTAL: 6
+# DOMAIN-SUFFIX: 6
+# TOTAL: 8
 DOMAIN-SUFFIX,bigo.tv
 DOMAIN-SUFFIX,bigo.sg
 DOMAIN-SUFFIX,bigolive.tv
 DOMAIN-SUFFIX,bigoapp.tv
+DOMAIN-SUFFIX,like-video.com
+DOMAIN-SUFFIX,cubetecn.com
 DOMAIN-KEYWORD,bigo
 DOMAIN-KEYWORD,bigolive
